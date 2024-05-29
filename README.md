@@ -1,12 +1,9 @@
  # Amazon-clone
+ [<img src="https://www.shutterstock.com/image-vector/amazon-initial-logo-isolated-white-600nw-2272856739.jpg" width="50" height="50" style="border-radius: 10px;" target="_main">](https://aditiiprasad.github.io/Amazon-clone/) <span style="color:blue">&nbsp;_(Click on the logo to view my project)_</span>
+ <br>
 <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202306/untitled_design_-_2023-06-15t103544-sixteen_nine.jpg?size=948:533" alt="amazon banner" >
 <br>
 
-
-
-[<img src="https://www.shutterstock.com/image-vector/amazon-initial-logo-isolated-white-600nw-2272856739.jpg" width="50" height="50" style="border-radius: 10px;" target="_main">](https://aditiiprasad.github.io/Amazon-clone/) <span style="color:blue">&nbsp;_(Click on the logo to view this project)_</span>
-
-<br>
 <h1> What is this Project</h1>
 <p>Welcome to my Amazon Clone project! This web application is a front-end clone of the popular e-commerce platform, Amazon. Built using only HTML and CSS, the project aims to replicate the core visual elements and layout of Amazon, including a user-friendly interface, product listings, and a shopping cart. The clone project serves as a practical demonstration of my skills in front-end development and my ability to create visually appealing and responsive web pages. Through this project, I've gained hands-on experience in designing and structuring web content. Feel free to explore the code and provide feedback!</p>
 
