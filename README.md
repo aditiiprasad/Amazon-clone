@@ -7,6 +7,32 @@
 [<img src="https://www.shutterstock.com/image-vector/amazon-initial-logo-isolated-white-600nw-2272856739.jpg" width="50" height="50" style="border-radius: 10px;" target="_main">](https://aditiiprasad.github.io/Amazon-clone/) <span style="color:blue">&nbsp;_(Click on the logo to view this project)_</span>
 
 <br>
+# What is this Project 
+<p>Welcome to my Amazon Clone project! This web application is a front-end clone of the popular e-commerce platform, Amazon. Built using only HTML and CSS, the project aims to replicate the core visual elements and layout of Amazon, including a user-friendly interface, product listings, and a shopping cart. The clone project serves as a practical demonstration of my skills in front-end development and my ability to create visually appealing and responsive web pages. Through this project, I've gained hands-on experience in designing and structuring web content. Feel free to explore the code and provide feedback!</p>
+
+<br>
+# Technologies Used
+
+
+<div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" height="90px" title="HTML">
+    &nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS icon" height="90px" title="CSS">
+    &nbsp;
+     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs code icon" height="60px" title="Microsoft Visual Studio">
+    &nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git icon" height="75px" title="Git">
+    &nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub icon" height="75px" title="GitHub">
+    
+   
+  </div>
+</div>
+
+
+
+
 Author-Aditi 
 
 
