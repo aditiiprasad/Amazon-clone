@@ -24,7 +24,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("amazon-icon.png");
+    background-image: url("images/amazon-icon.png");
     background-size:100%;
     height: 50px;
     width: 100px;
@@ -126,7 +126,7 @@
 
 /* H E R O */
 .hero{
-    background-image: url("hero.jpg");
+    background-image: url("images/hero.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -185,35 +185,35 @@
 /* box images */
 .health
 {
-    background-image: url("Health.jpg");
+    background-image: url("images/Health.jpg");
 }
 .Furniture
 {
-    background-image: url("furniture.jpg");
+    background-image: url("images/furniture.jpg");
 }
 .clothes
 {
-    background-image: url("clothes.jpg");
+    background-image: url("images/clothes.jpg");
 }
 .devices
 {
-    background-image: url("devices.jpg");
+    background-image: url("images/devices.jpg");
 }
 .Make-Up
 {
-    background-image: url("makeup.jpg");
+    background-image: url("images/makeup.jpg");
 }
 .pet 
 {
-    background-image: url("pet.jpg");
+    background-image: url("images/pet.jpg");
 }
 .sports
 {
-    background-image: url("sports.jpg");
+    background-image: url("images/sports.jpg");
 }
 .toys
 {
-    background-image: url("toys.jpg");
+    background-image: url("images/toys.jpg");
 }
 
 /* FOOTER */
@@ -263,7 +263,7 @@ ul a{
 
 }
 .logofoot{
-    background-image: url("amazon-icon.png");
+    background-image: url("images/amazon-icon.png");
     background-size: cover;
     height: 50px;
     width: 100px;
