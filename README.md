@@ -27,7 +27,7 @@
   </div>
 </div>
 
-# WEB DEV DIARIES
+# WEB DEV DIARIES (29/05/2024)
 <h4>
  1. 1st step towards web Dev , learnt HTML , CSS , and Github to make this project
 </h4>
