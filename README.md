@@ -41,7 +41,10 @@
   <BR>
   Dealt with the intricacies of styling a complex webpage layout
  </h4>
- 
+ <H4>DRAWBACKS
+  <BR>
+  Did not implement responsive design to ensure compatibility across various screen sizes.
+ </H4>
 
 
 
