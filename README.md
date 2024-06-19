@@ -31,6 +31,17 @@
 <h4>
  1. 1st step towards web Dev , learnt HTML , CSS , and Github to make this project
 </h4>
+ <h4>2.LEARNINGS-
+ <BR>
+  Improved proficiency in structuring layouts and styling elements.
+  <BR>
+  Clean coding emphasized for an appealing interface & practical front-end experience.
+  <BR>
+  Understanding the importance of Git for tracking changes and collaborating on projects.
+  <BR>
+  Dealt with the intricacies of styling a complex webpage layout
+ </h4>
+ 
 
 
 
